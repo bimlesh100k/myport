@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bimlesh100k/myport.git/static/js/main.a6f96692.js",
+    "static/media/videoBg.mp4": "/bimlesh100k/myport.git/static/media/videoBg.5e99e70107e8538462e6.mp4",
+    "static/media/biopic1.jpg": "/bimlesh100k/myport.git/static/media/biopic1.a2821045bd9b419c1c42.jpg",
+    "static/media/work1.jpg": "/bimlesh100k/myport.git/static/media/work1.287f700b99f25d29ac24.jpg",
+    "static/media/gallary.jpg": "/bimlesh100k/myport.git/static/media/gallary.c4ee1204594eda718ebc.jpg",
+    "static/media/resume.pdf": "/bimlesh100k/myport.git/static/media/resume.7be6cd68d8cfc361e0a5.pdf",
+    "static/media/flower.jpg": "/bimlesh100k/myport.git/static/media/flower.ffce694db4212dc06888.jpg",
+    "static/media/mark.png": "/bimlesh100k/myport.git/static/media/mark.d80a32b4d375695001c5.png",
+    "index.html": "/bimlesh100k/myport.git/index.html",
+    "main.a6f96692.js.map": "/bimlesh100k/myport.git/static/js/main.a6f96692.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6f96692.js"
+  ]
+}
